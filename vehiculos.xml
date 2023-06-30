@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vehiculos>
+    <vehiculo codigoVehiculo="1">
+        <marca>Mercedes Benz</marca>
+        <modelo>Atego</modelo>
+    </vehiculo>
+    <vehiculo codigoVehiculo="2">
+        <marca>Renault</marca>
+        <modelo>Kangoo</modelo>
+    </vehiculo>
+</vehiculos>

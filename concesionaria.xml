@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<concesionaria>
+    <nombre>American Cars S.A.</nombre>
+    <vehiculos>
+        <vehiculo codigoVehiculo="1">
+            <segmento>C</segmento>
+            <marca>Chevrolet</marca>
+            <modelo>Onix</modelo>
+        </vehiculo>
+        <vehiculo codigoVehiculo="2">
+            <segmento>B</segmento>
+            <marca>Chevrolet</marca>
+            <modelo>Cruze</modelo>
+        </vehiculo>
+    </vehiculos>
+</concesionaria>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<empleados><empleado categoria="Operario" codigoEmpleado="10"><nombre>Pepe</nombre><apellido>Gonzales</apellido><edad>31</edad><salario>200000.0</salario></empleado><empleado categoria="Seguridad" codigoEmpleado="86"><nombre>Pedro</nombre><apellido>Lima</apellido><edad>29</edad><salario>190000.0</salario></empleado></empleados>

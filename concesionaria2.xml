@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<concesionaria>
+    <nombre>Paris Motors S.A.</nombre>
+    <vehiculos>
+        <vehiculo codigoVehiculo="23">
+            <segmento>C</segmento>
+            <marca>Peugeot</marca>
+            <modelo>208</modelo>
+        </vehiculo>
+        <vehiculo codigoVehiculo="45">
+            <segmento>C</segmento>
+            <marca>Citroen</marca>
+            <modelo>C3</modelo>
+        </vehiculo>
+        <vehiculo codigoVehiculo="78">
+            <segmento>B</segmento>
+            <marca>Peugeot</marca>
+            <modelo>408</modelo>
+        </vehiculo>
+    </vehiculos>
+</concesionaria>

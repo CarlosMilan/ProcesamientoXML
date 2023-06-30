@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE empleados [
+        <!ELEMENT empleados (empleado+)>
+        <!ELEMENT empleado (nombre, apellido, edad, salario)>
+        <!ATTLIST empleado categoria CDATA #REQUIRED codigoEmpleado CDATA #REQUIRED>
+        <!ELEMENT nombre (#PCDATA)>
+        <!ELEMENT apellido (#PCDATA)>
+        <!ELEMENT edad (#PCDATA)>
+        <!ELEMENT salario (#PCDATA)>
+]>
+<empleados>
+    <empleado categoria="Operario" codigoEmpleado="122">
+        <nombre>Pepe</nombre>
+        <apellido>Gonzales</apellido>
+        <edad>31</edad>
+        <salario>200000.0</salario>
+    </empleado>
+    <empleado categoria="Seguridad" codigoEmpleado="86">
+        <nombre>Pedro</nombre>
+        <apellido>Lima</apellido>
+        <edad>29</edad>
+        <salario>190000.0</salario>
+    </empleado>
+    <empleado categoria="Genente" codigoEmpleado="78">
+        <nombre>Maria</nombre>
+        <apellido>Saenz</apellido>
+        <edad>41</edad>
+        <salario>250000.0</salario>
+    </empleado>
+    <empleado categoria="Maquinista" codigoEmpleado="89">
+        <nombre>Matias</nombre>
+        <apellido>Castillo</apellido>
+        <edad>27</edad>
+        <salario>180000.0</salario>
+    </empleado>
+</empleados>
