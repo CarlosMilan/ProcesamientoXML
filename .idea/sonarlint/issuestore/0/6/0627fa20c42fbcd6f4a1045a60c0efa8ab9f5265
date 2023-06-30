@@ -1,13 +1,0 @@
-
-P
-java:S2755"3Disable access to external entities in XML parsing.(ğ¨ºî8ïÖ¢¿1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ä«ãİ8ëÚ£¿1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(à÷óøøÿÿÿÿ8ëÚ£¿1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(šÇÓøÿÿÿÿ8ëÚ£¿1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(—¾„Àşÿÿÿÿ8ìÚ£¿1
-C
-java:S3864*"!Remove this use of "Stream.peek".(á²ã›ûÿÿÿÿ8á€ª¿1
-Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¿ëßøÿÿÿÿ8²ÿ¤¿1
-U	java:S1063"9Replace this use of System.out or System.err by a logger.(¶­—³8²ÿ¤¿1
-Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8²ÿ¤¿1
-Z	java:S106A"9Replace this use of System.out or System.err by a logger.( ¢Öìúÿÿÿÿ8³ÿ¤¿1
